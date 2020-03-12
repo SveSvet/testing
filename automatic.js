@@ -24,6 +24,4 @@ describe('Automation script, #2', () => {
 
     driver.navigate().back();
   });
-
-
 });
